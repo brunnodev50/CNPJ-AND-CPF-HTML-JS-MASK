@@ -28,4 +28,4 @@ Uma solução leve, elegante e funcional desenvolvida com **Vanilla JavaScript**
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/brunnodev50/nome-do-seu-repo.git
+   git clone https://github.com/brunnodev50/CNPJ-AND-CPF-HTML-JS-MASK.git
